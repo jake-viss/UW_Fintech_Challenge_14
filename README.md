@@ -2,6 +2,8 @@
 
 ## Project Description
 
+In this challenge I backtest, tune and evaluate an SVM machine learning trading algorithm and then compare it against the results of a separately chosen ML model of my choice. The machine learning model that I chose to incorporate into the trading algorithm was a Stochastic Gradient Descent (SGD) model. The analysis is below.
+
 ## Project Analysis
 
 ### Tuning the Baseline ML Algorithm
@@ -44,4 +46,16 @@ The final step of the analysis was to try a different machine learning model usi
 
 
 ## Technologies
+**Python 3.7  
+Jupyter Lab**  
 
+Libraries:  
+
+Pandas  
+Pathlib  
+Sklearn  
+Numpy  
+Matplotlib
+
+## Contributors
+Jacob Vissering
